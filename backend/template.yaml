@@ -1,0 +1,121 @@
+AWSTemplateFormatVersion: '2010-09-09'
+Transform: AWS::Serverless-2016-10-31
+Description: Aqua Himshikhar - V1 Backend
+
+Globals:
+  Function:
+    Timeout: 10
+    Runtime: nodejs18.x
+    Architectures:
+      - arm64
+    Environment:
+      Variables:
+        TABLE_NAME: !Ref OrdersTable
+        DISPATCH_API_KEY: "CHANGE_ME_TO_A_LONG_SECURE_KEY" # In prod, set this in Lambda environment variables
+
+Parameters:
+  AllowedOrigin:
+    Type: String
+    Default: 'https://www.aquahimshikhar.com.np'
+    Description: Exact domain for CORS (do not use *)
+
+Resources:
+  OrdersTable:
+    Type: AWS::DynamoDB::Table
+    Properties:
+      TableName: AquaHimshikharOrders
+      BillingMode: PAY_PER_REQUEST
+      AttributeDefinitions:
+        - AttributeName: id
+          AttributeType: S
+        - AttributeName: date
+          AttributeType: S
+      KeySchema:
+        - AttributeName: id
+          KeyType: HASH
+      GlobalSecondaryIndexes:
+        - IndexName: DateIndex
+          KeySchema:
+            - AttributeName: date
+              KeyType: HASH
+          Projection:
+            ProjectionType: ALL
+      SSESpecification:
+        SSEEnabled: true # Encryption at rest enabled by default, but explicitly enforced here
+      TimeToLiveSpecification:
+        AttributeName: expiresAt
+        Enabled: true # 12-month TTL to drop old PII
+
+  CreateOrderFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: src/
+      Handler: createOrder.handler
+      Policies:
+        - DynamoDBCrudPolicy:
+            TableName: !Ref OrdersTable
+      FunctionUrlConfig:
+        AuthType: NONE
+        Cors:
+          AllowOrigins:
+            - !Ref AllowedOrigin
+            - 'http://localhost:8080' # For local testing
+            - 'http://127.0.0.1:8080'
+          AllowMethods:
+            - POST
+          AllowHeaders:
+            - '*'
+          MaxAge: 86400
+
+  GetOrdersFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: src/
+      Handler: getOrders.handler
+      Policies:
+        - DynamoDBReadPolicy:
+            TableName: !Ref OrdersTable
+      FunctionUrlConfig:
+        AuthType: NONE
+        Cors:
+          AllowOrigins:
+            - !Ref AllowedOrigin
+            - 'http://localhost:8080'
+            - 'http://127.0.0.1:8080'
+          AllowMethods:
+            - GET
+          AllowHeaders:
+            - '*'
+          MaxAge: 86400
+
+  UpdateOrderFunction:
+    Type: AWS::Serverless::Function
+    Properties:
+      CodeUri: src/
+      Handler: updateOrder.handler
+      Policies:
+        - DynamoDBCrudPolicy:
+            TableName: !Ref OrdersTable
+      FunctionUrlConfig:
+        AuthType: NONE
+        Cors:
+          AllowOrigins:
+            - !Ref AllowedOrigin
+            - 'http://localhost:8080'
+            - 'http://127.0.0.1:8080'
+          AllowMethods:
+            - PATCH
+          AllowHeaders:
+            - '*'
+          MaxAge: 86400
+
+Outputs:
+  CreateOrderUrl:
+    Description: "Function URL for POST /orders"
+    Value: !GetAtt CreateOrderFunctionUrl.FunctionUrl
+  GetOrdersUrl:
+    Description: "Function URL for GET /orders"
+    Value: !GetAtt GetOrdersFunctionUrl.FunctionUrl
+  UpdateOrderUrl:
+    Description: "Function URL for PATCH /orders"
+    Value: !GetAtt UpdateOrderFunctionUrl.FunctionUrl

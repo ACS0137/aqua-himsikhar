@@ -1,0 +1,114 @@
+[
+  {
+    "severity": "Low",
+    "rule": "1a",
+    "file": "aqua_himshikhar_brand_website.html",
+    "msg": "Duplicate @media (max-width: 768px) blocks found (3 times)",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1a",
+    "file": "article-template.html",
+    "msg": "Duplicate @media (max-width: 768px) blocks found (5 times)",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1a",
+    "file": "business.html",
+    "msg": "Duplicate @media (max-width: 768px) blocks found (5 times)",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1a",
+    "file": "contact.html",
+    "msg": "Duplicate @media (max-width: 768px) blocks found (5 times)",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1a",
+    "file": "custom-labels.html",
+    "msg": "Duplicate @media (max-width: 768px) blocks found (3 times)",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1a",
+    "file": "journal.html",
+    "msg": "Duplicate @media (max-width: 768px) blocks found (4 times)",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1a",
+    "file": "privacy.html",
+    "msg": "Duplicate @media (max-width: 768px) blocks found (5 times)",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Medium",
+    "rule": "1b",
+    "file": "privacy.html",
+    "msg": "Missing lang attribute on <html>",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1a",
+    "file": "product_19l_jar.html",
+    "msg": "Duplicate @media (max-width: 768px) blocks found (5 times)",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Medium",
+    "rule": "1b",
+    "file": "product_19l_jar.html",
+    "msg": "Missing lang attribute on <html>",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1a",
+    "file": "product_1l_bottle.html",
+    "msg": "Duplicate @media (max-width: 768px) blocks found (5 times)",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Medium",
+    "rule": "1b",
+    "file": "product_1l_bottle.html",
+    "msg": "Missing lang attribute on <html>",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1a",
+    "file": "product_500ml_bottle.html",
+    "msg": "Duplicate @media (max-width: 768px) blocks found (5 times)",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Medium",
+    "rule": "1b",
+    "file": "product_500ml_bottle.html",
+    "msg": "Missing lang attribute on <html>",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1a",
+    "file": "terms.html",
+    "msg": "Duplicate @media (max-width: 768px) blocks found (5 times)",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Medium",
+    "rule": "1b",
+    "file": "terms.html",
+    "msg": "Missing lang attribute on <html>",
+    "evidence": "[VERIFIED IN CODE]"
+  }
+]

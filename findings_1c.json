@@ -1,0 +1,996 @@
+[
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "aqua_himshikhar_brand_website.html",
+    "msg": "Placeholder href=\"#\" with text: \"Aqua Himshikhar\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "aqua_himshikhar_brand_website.html",
+    "msg": "Placeholder href=\"#\" with text: \"Order Now\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "aqua_himshikhar_brand_website.html",
+    "msg": "Placeholder href=\"#\" with text: \"Order Now\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "aqua_himshikhar_brand_website.html",
+    "msg": "Placeholder href=\"#\" with text: \"\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "aqua_himshikhar_brand_website.html",
+    "msg": "Placeholder href=\"#\" with text: \"\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "aqua_himshikhar_brand_website.html",
+    "msg": "Placeholder href=\"#\" with text: \"\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "1c",
+    "file": "aqua_himshikhar_brand_website.html",
+    "msg": "onclick handler \"openOrderModal\" called but never defined",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "1c",
+    "file": "aqua_himshikhar_brand_website.html",
+    "msg": "onclick handler \"openOrderModal\" called but never defined",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "1c",
+    "file": "aqua_himshikhar_brand_website.html",
+    "msg": "onclick handler \"openOrderModal\" called but never defined",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "1c",
+    "file": "aqua_himshikhar_brand_website.html",
+    "msg": "onclick handler \"openOrderModal\" called but never defined",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "1c",
+    "file": "aqua_himshikhar_brand_website.html",
+    "msg": "onclick handler \"openOrderModal\" called but never defined",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "aqua_kathmandu_brand_website.html",
+    "msg": "Placeholder href=\"#\" with text: \"AquaKTM\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "aqua_kathmandu_brand_website.html",
+    "msg": "Placeholder href=\"#\" with text: \"AquaKTM\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "aqua_kathmandu_brand_website.html",
+    "msg": "Placeholder href=\"#\" with text: \"19-Liter Jar\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "aqua_kathmandu_brand_website.html",
+    "msg": "Placeholder href=\"#\" with text: \"1-Liter Bottle\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "aqua_kathmandu_brand_website.html",
+    "msg": "Placeholder href=\"#\" with text: \"Custom Branding\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "aqua_kathmandu_brand_website.html",
+    "msg": "Placeholder href=\"#\" with text: \"About Us\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "aqua_kathmandu_brand_website.html",
+    "msg": "Placeholder href=\"#\" with text: \"Our Process\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "aqua_kathmandu_brand_website.html",
+    "msg": "Placeholder href=\"#\" with text: \"Clients\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "aqua_kathmandu_brand_website.html",
+    "msg": "Placeholder href=\"#\" with text: \"Contact\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "aqua_kathmandu_brand_website.html",
+    "msg": "Placeholder href=\"#\" with text: \"Kathmandu, Nepal\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "aqua_kathmandu_brand_website.html",
+    "msg": "Placeholder href=\"#\" with text: \"info@aquaktm.com\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "article-template.html",
+    "msg": "Placeholder href=\"#\" with text: \"Order Now\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "article-template.html",
+    "msg": "Placeholder href=\"#\" with text: \"Aqua Himshikhar\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "article-template.html",
+    "msg": "Placeholder href=\"#\" with text: \"19-Liter Jar\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "article-template.html",
+    "msg": "Placeholder href=\"#\" with text: \"1-Liter Bottle\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "article-template.html",
+    "msg": "Placeholder href=\"#\" with text: \"Corporate Subscription\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "article-template.html",
+    "msg": "Placeholder href=\"#\" with text: \"About Us\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "article-template.html",
+    "msg": "Placeholder href=\"#\" with text: \"Our Purification Process\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "article-template.html",
+    "msg": "Placeholder href=\"#\" with text: \"Our Clients\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "article-template.html",
+    "msg": "Placeholder href=\"#\" with text: \"Kathmandu Valley, Nepal\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "article-template.html",
+    "msg": "Placeholder href=\"#\" with text: \"WhatsApp Order\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "article-template.html",
+    "msg": "Placeholder href=\"#\" with text: \"eSewa / Khalti\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "1c",
+    "file": "article-template.html",
+    "msg": "onclick handler \"openOrderModal\" called but never defined",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "business.html",
+    "msg": "Placeholder href=\"#\" with text: \"Order Now\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "business.html",
+    "msg": "Placeholder href=\"#\" with text: \"Order Now\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "business.html",
+    "msg": "Placeholder href=\"#\" with text: \"Aqua Himshikhar\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "1c",
+    "file": "business.html",
+    "msg": "onclick handler \"openOrderModal\" called but never defined",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "1c",
+    "file": "business.html",
+    "msg": "onclick handler \"openOrderModal\" called but never defined",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "contact.html",
+    "msg": "Placeholder href=\"#\" with text: \"Live Chat / WhatsApp\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "1c",
+    "file": "contact.html",
+    "msg": "onclick handler \"openOrderModal\" called but never defined",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "1c",
+    "file": "contact.html",
+    "msg": "onclick handler \"openOrderModal\" called but never defined",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "1c",
+    "file": "contact.html",
+    "msg": "onclick handler \"openOrderModal\" called but never defined",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "custom-labels.html",
+    "msg": "Placeholder href=\"#\" with text: \"Order Now\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "custom-labels.html",
+    "msg": "Placeholder href=\"#\" with text: \"Order Now\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "custom-labels.html",
+    "msg": "Placeholder href=\"#\" with text: \"Aqua Himshikhar\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "1c",
+    "file": "custom-labels.html",
+    "msg": "onclick handler \"openOrderModal\" called but never defined",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "1c",
+    "file": "custom-labels.html",
+    "msg": "onclick handler \"openOrderModal\" called but never defined",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "journal.html",
+    "msg": "Placeholder href=\"#\" with text: \"Order Now\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "journal.html",
+    "msg": "Placeholder href=\"#\" with text: \"Order Now\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "journal.html",
+    "msg": "Placeholder href=\"#\" with text: \"Read Full Article\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "journal.html",
+    "msg": "Placeholder href=\"#\" with text: \"Read More\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "journal.html",
+    "msg": "Placeholder href=\"#\" with text: \"Read More\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "journal.html",
+    "msg": "Placeholder href=\"#\" with text: \"Read More\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "journal.html",
+    "msg": "Placeholder href=\"#\" with text: \"Aqua Himshikhar\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "journal.html",
+    "msg": "Placeholder href=\"#\" with text: \"19-Liter Jar\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "journal.html",
+    "msg": "Placeholder href=\"#\" with text: \"1-Liter Bottle\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "journal.html",
+    "msg": "Placeholder href=\"#\" with text: \"Corporate Subscription\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "journal.html",
+    "msg": "Placeholder href=\"#\" with text: \"About Us\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "journal.html",
+    "msg": "Placeholder href=\"#\" with text: \"Our Purification Process\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "journal.html",
+    "msg": "Placeholder href=\"#\" with text: \"Our Clients\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "journal.html",
+    "msg": "Placeholder href=\"#\" with text: \"Kathmandu Valley, Nepal\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "journal.html",
+    "msg": "Placeholder href=\"#\" with text: \"WhatsApp Order\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "journal.html",
+    "msg": "Placeholder href=\"#\" with text: \"eSewa / Khalti\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "1c",
+    "file": "journal.html",
+    "msg": "onclick handler \"openOrderModal\" called but never defined",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "1c",
+    "file": "journal.html",
+    "msg": "onclick handler \"openOrderModal\" called but never defined",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "privacy.html",
+    "msg": "Placeholder href=\"#\" with text: \"Order Now\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "privacy.html",
+    "msg": "Placeholder href=\"#\" with text: \"Order Now\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "privacy.html",
+    "msg": "Placeholder href=\"#\" with text: \"Aqua Himshikhar\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "privacy.html",
+    "msg": "Placeholder href=\"#\" with text: \"19-Liter Jar\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "privacy.html",
+    "msg": "Placeholder href=\"#\" with text: \"1-Liter Bottle\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "privacy.html",
+    "msg": "Placeholder href=\"#\" with text: \"Corporate Subscription\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "privacy.html",
+    "msg": "Placeholder href=\"#\" with text: \"About Us\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "privacy.html",
+    "msg": "Placeholder href=\"#\" with text: \"Our Purification Process\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "privacy.html",
+    "msg": "Placeholder href=\"#\" with text: \"Our Clients\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "privacy.html",
+    "msg": "Placeholder href=\"#\" with text: \"Kathmandu Valley, Nepal\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "privacy.html",
+    "msg": "Placeholder href=\"#\" with text: \"WhatsApp Order\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "privacy.html",
+    "msg": "Placeholder href=\"#\" with text: \"eSewa / Khalti\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "1c",
+    "file": "privacy.html",
+    "msg": "onclick handler \"openOrderModal\" called but never defined",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "1c",
+    "file": "privacy.html",
+    "msg": "onclick handler \"openOrderModal\" called but never defined",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_19l_jar.html",
+    "msg": "Placeholder href=\"#\" with text: \"Order Now\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_19l_jar.html",
+    "msg": "Placeholder href=\"#\" with text: \"Order Now\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_19l_jar.html",
+    "msg": "Placeholder href=\"#\" with text: \"Order Now\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_19l_jar.html",
+    "msg": "Placeholder href=\"#\" with text: \"Aqua Himshikhar\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_19l_jar.html",
+    "msg": "Placeholder href=\"#\" with text: \"19-Liter Jar\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_19l_jar.html",
+    "msg": "Placeholder href=\"#\" with text: \"1-Liter Bottle\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_19l_jar.html",
+    "msg": "Placeholder href=\"#\" with text: \"Corporate Subscription\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_19l_jar.html",
+    "msg": "Placeholder href=\"#\" with text: \"About Us\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_19l_jar.html",
+    "msg": "Placeholder href=\"#\" with text: \"Our Purification Process\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_19l_jar.html",
+    "msg": "Placeholder href=\"#\" with text: \"Our Clients\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_19l_jar.html",
+    "msg": "Placeholder href=\"#\" with text: \"Kathmandu Valley, Nepal\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_19l_jar.html",
+    "msg": "Placeholder href=\"#\" with text: \"WhatsApp Order\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_19l_jar.html",
+    "msg": "Placeholder href=\"#\" with text: \"eSewa / Khalti\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "1c",
+    "file": "product_19l_jar.html",
+    "msg": "onclick handler \"openOrderModal\" called but never defined",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "1c",
+    "file": "product_19l_jar.html",
+    "msg": "onclick handler \"openOrderModal\" called but never defined",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "1c",
+    "file": "product_19l_jar.html",
+    "msg": "onclick handler \"openSmartOrder\" called but never defined",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_1l_bottle.html",
+    "msg": "Placeholder href=\"#\" with text: \"Order Now\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_1l_bottle.html",
+    "msg": "Placeholder href=\"#\" with text: \"Order Now\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_1l_bottle.html",
+    "msg": "Placeholder href=\"#\" with text: \"Order Now\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_1l_bottle.html",
+    "msg": "Placeholder href=\"#\" with text: \"Aqua Himshikhar\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_1l_bottle.html",
+    "msg": "Placeholder href=\"#\" with text: \"19-Liter Jar\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_1l_bottle.html",
+    "msg": "Placeholder href=\"#\" with text: \"1-Liter Bottle\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_1l_bottle.html",
+    "msg": "Placeholder href=\"#\" with text: \"Corporate Subscription\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_1l_bottle.html",
+    "msg": "Placeholder href=\"#\" with text: \"About Us\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_1l_bottle.html",
+    "msg": "Placeholder href=\"#\" with text: \"Our Purification Process\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_1l_bottle.html",
+    "msg": "Placeholder href=\"#\" with text: \"Our Clients\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_1l_bottle.html",
+    "msg": "Placeholder href=\"#\" with text: \"Kathmandu Valley, Nepal\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_1l_bottle.html",
+    "msg": "Placeholder href=\"#\" with text: \"WhatsApp Order\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_1l_bottle.html",
+    "msg": "Placeholder href=\"#\" with text: \"eSewa / Khalti\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "1c",
+    "file": "product_1l_bottle.html",
+    "msg": "onclick handler \"openOrderModal\" called but never defined",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "1c",
+    "file": "product_1l_bottle.html",
+    "msg": "onclick handler \"openOrderModal\" called but never defined",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "1c",
+    "file": "product_1l_bottle.html",
+    "msg": "onclick handler \"openSmartOrder\" called but never defined",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_500ml_bottle.html",
+    "msg": "Placeholder href=\"#\" with text: \"Order Now\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_500ml_bottle.html",
+    "msg": "Placeholder href=\"#\" with text: \"Order Now\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_500ml_bottle.html",
+    "msg": "Placeholder href=\"#\" with text: \"Order Now\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_500ml_bottle.html",
+    "msg": "Placeholder href=\"#\" with text: \"Aqua Himshikhar\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_500ml_bottle.html",
+    "msg": "Placeholder href=\"#\" with text: \"19-Liter Jar\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_500ml_bottle.html",
+    "msg": "Placeholder href=\"#\" with text: \"1-Liter Bottle\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_500ml_bottle.html",
+    "msg": "Placeholder href=\"#\" with text: \"Corporate Subscription\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_500ml_bottle.html",
+    "msg": "Placeholder href=\"#\" with text: \"About Us\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_500ml_bottle.html",
+    "msg": "Placeholder href=\"#\" with text: \"Our Purification Process\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_500ml_bottle.html",
+    "msg": "Placeholder href=\"#\" with text: \"Our Clients\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_500ml_bottle.html",
+    "msg": "Placeholder href=\"#\" with text: \"Kathmandu Valley, Nepal\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_500ml_bottle.html",
+    "msg": "Placeholder href=\"#\" with text: \"WhatsApp Order\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "product_500ml_bottle.html",
+    "msg": "Placeholder href=\"#\" with text: \"eSewa / Khalti\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "1c",
+    "file": "product_500ml_bottle.html",
+    "msg": "onclick handler \"openOrderModal\" called but never defined",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "1c",
+    "file": "product_500ml_bottle.html",
+    "msg": "onclick handler \"openOrderModal\" called but never defined",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "1c",
+    "file": "product_500ml_bottle.html",
+    "msg": "onclick handler \"openSmartOrder\" called but never defined",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "terms.html",
+    "msg": "Placeholder href=\"#\" with text: \"Order Now\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "terms.html",
+    "msg": "Placeholder href=\"#\" with text: \"Order Now\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "terms.html",
+    "msg": "Placeholder href=\"#\" with text: \"Aqua Himshikhar\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "terms.html",
+    "msg": "Placeholder href=\"#\" with text: \"19-Liter Jar\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "terms.html",
+    "msg": "Placeholder href=\"#\" with text: \"1-Liter Bottle\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "terms.html",
+    "msg": "Placeholder href=\"#\" with text: \"Corporate Subscription\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "terms.html",
+    "msg": "Placeholder href=\"#\" with text: \"About Us\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "terms.html",
+    "msg": "Placeholder href=\"#\" with text: \"Our Purification Process\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "terms.html",
+    "msg": "Placeholder href=\"#\" with text: \"Our Clients\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "terms.html",
+    "msg": "Placeholder href=\"#\" with text: \"Kathmandu Valley, Nepal\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "terms.html",
+    "msg": "Placeholder href=\"#\" with text: \"WhatsApp Order\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Low",
+    "rule": "1c",
+    "file": "terms.html",
+    "msg": "Placeholder href=\"#\" with text: \"eSewa / Khalti\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "1c",
+    "file": "terms.html",
+    "msg": "onclick handler \"openOrderModal\" called but never defined",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "1c",
+    "file": "terms.html",
+    "msg": "onclick handler \"openOrderModal\" called but never defined",
+    "evidence": "[VERIFIED IN CODE]"
+  }
+]

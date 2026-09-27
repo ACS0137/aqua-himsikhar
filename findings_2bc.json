@@ -1,0 +1,359 @@
+[
+  {
+    "severity": "High",
+    "rule": "2b",
+    "file": "aqua_himshikhar_brand_website.html",
+    "msg": "Icon-only interactive element missing aria-label",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "2b",
+    "file": "aqua_himshikhar_brand_website.html",
+    "msg": "Icon-only interactive element missing aria-label",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "2b",
+    "file": "aqua_himshikhar_brand_website.html",
+    "msg": "Icon-only interactive element missing aria-label",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Medium",
+    "rule": "2b",
+    "file": "aqua_himshikhar_brand_website.html",
+    "msg": "Skipped heading level: H2 to H4",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Medium",
+    "rule": "2b",
+    "file": "aqua_himshikhar_brand_website.html",
+    "msg": "Skipped heading level: H2 to H4",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Medium",
+    "rule": "2b",
+    "file": "aqua_himshikhar_brand_website.html",
+    "msg": "Skipped heading level: H2 to H5",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Medium",
+    "rule": "2b",
+    "file": "aqua_kathmandu_brand_website.html",
+    "msg": "Skipped heading level: H2 to H4",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Medium",
+    "rule": "2b",
+    "file": "aqua_kathmandu_brand_website.html",
+    "msg": "Skipped heading level: H2 to H4",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Medium",
+    "rule": "2b",
+    "file": "aqua_kathmandu_brand_website.html",
+    "msg": "Skipped heading level: H2 to H5",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Medium",
+    "rule": "2b",
+    "file": "article-template.html",
+    "msg": "Skipped heading level: H3 to H5",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Medium",
+    "rule": "2b",
+    "file": "business.html",
+    "msg": "Skipped heading level: H1 to H4",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Medium",
+    "rule": "2b",
+    "file": "business.html",
+    "msg": "Skipped heading level: H2 to H4",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Medium",
+    "rule": "2b",
+    "file": "business.html",
+    "msg": "Skipped heading level: H3 to H5",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "2c",
+    "file": "business.html",
+    "msg": "target=\"_blank\" without rel=\"noopener\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "2c",
+    "file": "business.html",
+    "msg": "Input in form without name attribute (id=\"b2bOrg\")",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "2c",
+    "file": "business.html",
+    "msg": "Input in form without name attribute (id=\"b2bName\")",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "2c",
+    "file": "business.html",
+    "msg": "Input in form without name attribute (id=\"b2bPhone\")",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "2c",
+    "file": "business.html",
+    "msg": "Input in form without name attribute (id=\"b2bEmail\")",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "2c",
+    "file": "business.html",
+    "msg": "Input in form without name attribute (id=\"b2bAddress\")",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "2c",
+    "file": "business.html",
+    "msg": "Input in form without name attribute (id=\"b2bQty\")",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "2b",
+    "file": "contact.html",
+    "msg": "Input without id/aria-label and not wrapped in <label>",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "2b",
+    "file": "contact.html",
+    "msg": "Input without id/aria-label and not wrapped in <label>",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "2b",
+    "file": "contact.html",
+    "msg": "Input without id/aria-label and not wrapped in <label>",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "2b",
+    "file": "contact.html",
+    "msg": "Input without id/aria-label and not wrapped in <label>",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Medium",
+    "rule": "2b",
+    "file": "contact.html",
+    "msg": "Skipped heading level: H1 to H3",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Medium",
+    "rule": "2b",
+    "file": "contact.html",
+    "msg": "Skipped heading level: H2 to H4",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "2c",
+    "file": "contact.html",
+    "msg": "Input in form without name attribute (id=\"undefined\")",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "2c",
+    "file": "contact.html",
+    "msg": "Input in form without name attribute (id=\"undefined\")",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "2c",
+    "file": "contact.html",
+    "msg": "Input in form without name attribute (id=\"undefined\")",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "2c",
+    "file": "contact.html",
+    "msg": "Input in form without name attribute (id=\"undefined\")",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Medium",
+    "rule": "2b",
+    "file": "custom-labels.html",
+    "msg": "Skipped heading level: H2 to H4",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Medium",
+    "rule": "2b",
+    "file": "custom-labels.html",
+    "msg": "Skipped heading level: H2 to H4",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Medium",
+    "rule": "2b",
+    "file": "custom-labels.html",
+    "msg": "Skipped heading level: H2 to H4",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Medium",
+    "rule": "2b",
+    "file": "custom-labels.html",
+    "msg": "Skipped heading level: H2 to H5",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "2c",
+    "file": "custom-labels.html",
+    "msg": "target=\"_blank\" without rel=\"noopener\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "2c",
+    "file": "custom-labels.html",
+    "msg": "Input in form without name attribute (id=\"clOrg\")",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "2c",
+    "file": "custom-labels.html",
+    "msg": "Input in form without name attribute (id=\"clName\")",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "2c",
+    "file": "custom-labels.html",
+    "msg": "Input in form without name attribute (id=\"clPhone\")",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "2c",
+    "file": "custom-labels.html",
+    "msg": "Input in form without name attribute (id=\"clEmail\")",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "2c",
+    "file": "custom-labels.html",
+    "msg": "Input in form without name attribute (id=\"clDate\")",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "2b",
+    "file": "dispatch.html",
+    "msg": "Input id=\"apiKey\" has no associated <label>",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "2c",
+    "file": "dispatch.html",
+    "msg": "innerHTML assignment found",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Medium",
+    "rule": "2b",
+    "file": "hospitality.html",
+    "msg": "No <h1> tag found",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Medium",
+    "rule": "2b",
+    "file": "privacy.html",
+    "msg": "Skipped heading level: H2 to H5",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "2b",
+    "file": "product_19l_jar.html",
+    "msg": "Image without alt attribute: src=\"card-jar.webp\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Medium",
+    "rule": "2b",
+    "file": "product_19l_jar.html",
+    "msg": "Skipped heading level: H1 to H5",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "2b",
+    "file": "product_1l_bottle.html",
+    "msg": "Image without alt attribute: src=\"product-1l-main.webp\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Medium",
+    "rule": "2b",
+    "file": "product_1l_bottle.html",
+    "msg": "Skipped heading level: H1 to H5",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "High",
+    "rule": "2b",
+    "file": "product_500ml_bottle.html",
+    "msg": "Image without alt attribute: src=\"product-card-500ml.webp\"",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Medium",
+    "rule": "2b",
+    "file": "product_500ml_bottle.html",
+    "msg": "Skipped heading level: H1 to H5",
+    "evidence": "[VERIFIED IN CODE]"
+  },
+  {
+    "severity": "Medium",
+    "rule": "2b",
+    "file": "terms.html",
+    "msg": "Skipped heading level: H2 to H5",
+    "evidence": "[VERIFIED IN CODE]"
+  }
+]

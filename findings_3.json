@@ -1,0 +1,2149 @@
+{
+  "findings": [
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "aqua_himshikhar_brand_website.html",
+      "msg": "<title> over 60 chars (72)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "aqua_himshikhar_brand_website.html",
+      "msg": "<meta name=\"description\"> length is 164 (optimal 120-160)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "High",
+      "rule": "3a",
+      "file": "aqua_himshikhar_brand_website.html",
+      "msg": "og:image points to unsupported format (https://www.aquahimshikhar.com.np/logo.webp)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "aqua_himshikhar_brand_website.html",
+      "msg": "Missing <link rel=\"canonical\">",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "aqua_himshikhar_brand_website.html",
+      "msg": "JSON-LD missing @type",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3b",
+      "file": "aqua_himshikhar_brand_website.html",
+      "msg": "Render-blocking script in <head>: config.js",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "aqua_himshikhar_brand_website.html",
+      "msg": "Image potentially below the fold missing loading=\"lazy\": card-500ml.webp",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "aqua_himshikhar_brand_website.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "aqua_himshikhar_brand_website.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3b",
+      "file": "aqua_himshikhar_brand_website.html",
+      "msg": "Animation on layout-triggering property: width",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "aqua_himshikhar_brand_website.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "aqua_himshikhar_brand_website.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "aqua_himshikhar_brand_website.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "aqua_himshikhar_brand_website.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "aqua_himshikhar_brand_website.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "aqua_himshikhar_brand_website.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "aqua_himshikhar_brand_website.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "aqua_himshikhar_brand_website.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "aqua_himshikhar_brand_website.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "aqua_himshikhar_brand_website.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "aqua_himshikhar_brand_website.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "aqua_himshikhar_brand_website.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "aqua_himshikhar_brand_website.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "aqua_himshikhar_brand_website.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "aqua_himshikhar_brand_website.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "aqua_himshikhar_brand_website.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "High",
+      "rule": "3a",
+      "file": "aqua_kathmandu_brand_website.html",
+      "msg": "Missing <meta name=\"description\">",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "aqua_kathmandu_brand_website.html",
+      "msg": "Missing og:title",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "aqua_kathmandu_brand_website.html",
+      "msg": "Missing og:description",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "aqua_kathmandu_brand_website.html",
+      "msg": "Missing og:url",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "aqua_kathmandu_brand_website.html",
+      "msg": "Missing og:image",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "aqua_kathmandu_brand_website.html",
+      "msg": "Missing <link rel=\"canonical\">",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "aqua_kathmandu_brand_website.html",
+      "msg": "Missing JSON-LD schema",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3b",
+      "file": "aqua_kathmandu_brand_website.html",
+      "msg": "Animation on layout-triggering property: height",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "aqua_kathmandu_brand_website.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "aqua_kathmandu_brand_website.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3b",
+      "file": "aqua_kathmandu_brand_website.html",
+      "msg": "Animation on layout-triggering property: width",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3b",
+      "file": "aqua_kathmandu_brand_website.html",
+      "msg": "Animation on layout-triggering property: width",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "aqua_kathmandu_brand_website.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "aqua_kathmandu_brand_website.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3b",
+      "file": "aqua_kathmandu_brand_website.html",
+      "msg": "Animation on layout-triggering property: bottom",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "article-template.html",
+      "msg": "<title> over 60 chars (82)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "article-template.html",
+      "msg": "<meta name=\"description\"> length is 164 (optimal 120-160)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "article-template.html",
+      "msg": "Duplicate description found (also in aqua_himshikhar_brand_website.html)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "High",
+      "rule": "3a",
+      "file": "article-template.html",
+      "msg": "og:image points to unsupported format (https://www.aquahimshikhar.com.np/logo.webp)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "article-template.html",
+      "msg": "Missing <link rel=\"canonical\">",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "article-template.html",
+      "msg": "JSON-LD missing @type",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3b",
+      "file": "article-template.html",
+      "msg": "Render-blocking script in <head>: config.js",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "article-template.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "article-template.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3b",
+      "file": "article-template.html",
+      "msg": "Animation on layout-triggering property: width",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "article-template.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "article-template.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "article-template.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "article-template.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "article-template.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "article-template.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "article-template.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "article-template.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "article-template.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "article-template.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "article-template.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "article-template.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "article-template.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "article-template.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "article-template.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "article-template.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "business.html",
+      "msg": "<title> over 60 chars (65)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "High",
+      "rule": "3a",
+      "file": "business.html",
+      "msg": "og:image points to unsupported format (https://www.aquahimshikhar.com.np/logo.webp)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "business.html",
+      "msg": "Missing <link rel=\"canonical\">",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "business.html",
+      "msg": "JSON-LD missing @type",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3b",
+      "file": "business.html",
+      "msg": "Render-blocking script in <head>: config.js",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "business.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "business.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3b",
+      "file": "business.html",
+      "msg": "Animation on layout-triggering property: width",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "business.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "business.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "business.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "business.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "business.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "contact.html",
+      "msg": "<title> over 60 chars (85)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "contact.html",
+      "msg": "<meta name=\"description\"> length is 164 (optimal 120-160)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "contact.html",
+      "msg": "Duplicate description found (also in article-template.html)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "High",
+      "rule": "3a",
+      "file": "contact.html",
+      "msg": "og:image points to unsupported format (https://www.aquahimshikhar.com.np/logo.webp)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "contact.html",
+      "msg": "Missing <link rel=\"canonical\">",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "contact.html",
+      "msg": "JSON-LD missing @type",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3b",
+      "file": "contact.html",
+      "msg": "Render-blocking script in <head>: config.js",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "contact.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "contact.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3b",
+      "file": "contact.html",
+      "msg": "Animation on layout-triggering property: width",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "contact.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "contact.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "contact.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "contact.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "contact.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "contact.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "contact.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "contact.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "contact.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "contact.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "contact.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "contact.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "contact.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "contact.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "contact.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "contact.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "custom-labels.html",
+      "msg": "<title> over 60 chars (88)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "custom-labels.html",
+      "msg": "Duplicate description found (also in business.html)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "High",
+      "rule": "3a",
+      "file": "custom-labels.html",
+      "msg": "og:image points to unsupported format (https://www.aquahimshikhar.com.np/logo.webp)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "custom-labels.html",
+      "msg": "Missing <link rel=\"canonical\">",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "custom-labels.html",
+      "msg": "JSON-LD missing @type",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3b",
+      "file": "custom-labels.html",
+      "msg": "Render-blocking script in <head>: config.js",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "custom-labels.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "custom-labels.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3b",
+      "file": "custom-labels.html",
+      "msg": "Animation on layout-triggering property: width",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "custom-labels.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "custom-labels.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "custom-labels.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "custom-labels.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "custom-labels.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "High",
+      "rule": "3a",
+      "file": "dispatch.html",
+      "msg": "Missing <meta name=\"description\">",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "dispatch.html",
+      "msg": "Missing og:title",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "dispatch.html",
+      "msg": "Missing og:description",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "dispatch.html",
+      "msg": "Missing og:url",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "dispatch.html",
+      "msg": "Missing og:image",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "dispatch.html",
+      "msg": "Missing <link rel=\"canonical\">",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "dispatch.html",
+      "msg": "Missing JSON-LD schema",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "High",
+      "rule": "3a",
+      "file": "hospitality.html",
+      "msg": "Missing <meta name=\"description\">",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "hospitality.html",
+      "msg": "Missing og:title",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "hospitality.html",
+      "msg": "Missing og:description",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "hospitality.html",
+      "msg": "Missing og:url",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "hospitality.html",
+      "msg": "Missing og:image",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "hospitality.html",
+      "msg": "Missing <link rel=\"canonical\">",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "hospitality.html",
+      "msg": "Missing JSON-LD schema",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "journal.html",
+      "msg": "<title> over 60 chars (74)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "journal.html",
+      "msg": "<meta name=\"description\"> length is 164 (optimal 120-160)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "journal.html",
+      "msg": "Duplicate description found (also in contact.html)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "High",
+      "rule": "3a",
+      "file": "journal.html",
+      "msg": "og:image points to unsupported format (https://www.aquahimshikhar.com.np/logo.webp)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "journal.html",
+      "msg": "Missing <link rel=\"canonical\">",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "journal.html",
+      "msg": "JSON-LD missing @type",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3b",
+      "file": "journal.html",
+      "msg": "Render-blocking script in <head>: config.js",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "journal.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "journal.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3b",
+      "file": "journal.html",
+      "msg": "Animation on layout-triggering property: width",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "journal.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "journal.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "journal.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "journal.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "journal.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "journal.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "journal.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "journal.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "journal.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "journal.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "journal.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "journal.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "journal.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "journal.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "journal.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "journal.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "privacy.html",
+      "msg": "<title> over 60 chars (85)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "privacy.html",
+      "msg": "Duplicate <title> found: \"Contact Us | Aqua Himshikhar — Safa, Swacha, HimshikharAqua HimshikharAqua Himshikhar\" (also in contact.html)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "privacy.html",
+      "msg": "<meta name=\"description\"> length is 164 (optimal 120-160)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "privacy.html",
+      "msg": "Duplicate description found (also in journal.html)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "High",
+      "rule": "3a",
+      "file": "privacy.html",
+      "msg": "og:image points to unsupported format (https://www.aquahimshikhar.com.np/logo.webp)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "privacy.html",
+      "msg": "Missing <link rel=\"canonical\">",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "privacy.html",
+      "msg": "JSON-LD missing @type",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3b",
+      "file": "privacy.html",
+      "msg": "Render-blocking script in <head>: config.js",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "privacy.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "privacy.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3b",
+      "file": "privacy.html",
+      "msg": "Animation on layout-triggering property: width",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "privacy.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "privacy.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "privacy.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "privacy.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "privacy.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "privacy.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "privacy.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "privacy.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "privacy.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "privacy.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "privacy.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "privacy.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "privacy.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "privacy.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "privacy.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "product_19l_jar.html",
+      "msg": "<title> over 60 chars (85)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "product_19l_jar.html",
+      "msg": "Duplicate <title> found: \"Contact Us | Aqua Himshikhar — Safa, Swacha, HimshikharAqua HimshikharAqua Himshikhar\" (also in privacy.html)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "product_19l_jar.html",
+      "msg": "<meta name=\"description\"> length is 164 (optimal 120-160)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "product_19l_jar.html",
+      "msg": "Duplicate description found (also in privacy.html)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "High",
+      "rule": "3a",
+      "file": "product_19l_jar.html",
+      "msg": "og:image points to unsupported format (https://www.aquahimshikhar.com.np/logo.webp)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "product_19l_jar.html",
+      "msg": "Missing <link rel=\"canonical\">",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "product_19l_jar.html",
+      "msg": "JSON-LD missing @type",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3b",
+      "file": "product_19l_jar.html",
+      "msg": "Render-blocking script in <head>: config.js",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_19l_jar.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_19l_jar.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3b",
+      "file": "product_19l_jar.html",
+      "msg": "Animation on layout-triggering property: width",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_19l_jar.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_19l_jar.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_19l_jar.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_19l_jar.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_19l_jar.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_19l_jar.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_19l_jar.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_19l_jar.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_19l_jar.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_19l_jar.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_19l_jar.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_19l_jar.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_19l_jar.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_19l_jar.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_19l_jar.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_19l_jar.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_19l_jar.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "product_1l_bottle.html",
+      "msg": "<title> over 60 chars (85)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "product_1l_bottle.html",
+      "msg": "Duplicate <title> found: \"Contact Us | Aqua Himshikhar — Safa, Swacha, HimshikharAqua HimshikharAqua Himshikhar\" (also in product_19l_jar.html)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "product_1l_bottle.html",
+      "msg": "<meta name=\"description\"> length is 164 (optimal 120-160)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "product_1l_bottle.html",
+      "msg": "Duplicate description found (also in product_19l_jar.html)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "High",
+      "rule": "3a",
+      "file": "product_1l_bottle.html",
+      "msg": "og:image points to unsupported format (https://www.aquahimshikhar.com.np/logo.webp)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "product_1l_bottle.html",
+      "msg": "Missing <link rel=\"canonical\">",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "product_1l_bottle.html",
+      "msg": "JSON-LD missing @type",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3b",
+      "file": "product_1l_bottle.html",
+      "msg": "Render-blocking script in <head>: config.js",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_1l_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_1l_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3b",
+      "file": "product_1l_bottle.html",
+      "msg": "Animation on layout-triggering property: width",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_1l_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_1l_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_1l_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_1l_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_1l_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_1l_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_1l_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_1l_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_1l_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_1l_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_1l_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_1l_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_1l_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_1l_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_1l_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_1l_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_1l_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "product_500ml_bottle.html",
+      "msg": "<title> over 60 chars (85)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "product_500ml_bottle.html",
+      "msg": "Duplicate <title> found: \"Contact Us | Aqua Himshikhar — Safa, Swacha, HimshikharAqua HimshikharAqua Himshikhar\" (also in product_1l_bottle.html)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "product_500ml_bottle.html",
+      "msg": "<meta name=\"description\"> length is 164 (optimal 120-160)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "product_500ml_bottle.html",
+      "msg": "Duplicate description found (also in product_1l_bottle.html)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "High",
+      "rule": "3a",
+      "file": "product_500ml_bottle.html",
+      "msg": "og:image points to unsupported format (https://www.aquahimshikhar.com.np/logo.webp)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "product_500ml_bottle.html",
+      "msg": "Missing <link rel=\"canonical\">",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "product_500ml_bottle.html",
+      "msg": "JSON-LD missing @type",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3b",
+      "file": "product_500ml_bottle.html",
+      "msg": "Render-blocking script in <head>: config.js",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_500ml_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_500ml_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3b",
+      "file": "product_500ml_bottle.html",
+      "msg": "Animation on layout-triggering property: width",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_500ml_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_500ml_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_500ml_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_500ml_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_500ml_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_500ml_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_500ml_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_500ml_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_500ml_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_500ml_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_500ml_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_500ml_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_500ml_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_500ml_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_500ml_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_500ml_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "product_500ml_bottle.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "terms.html",
+      "msg": "<title> over 60 chars (85)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "terms.html",
+      "msg": "Duplicate <title> found: \"Contact Us | Aqua Himshikhar — Safa, Swacha, HimshikharAqua HimshikharAqua Himshikhar\" (also in product_500ml_bottle.html)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "terms.html",
+      "msg": "<meta name=\"description\"> length is 164 (optimal 120-160)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "terms.html",
+      "msg": "Duplicate description found (also in product_500ml_bottle.html)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "High",
+      "rule": "3a",
+      "file": "terms.html",
+      "msg": "og:image points to unsupported format (https://www.aquahimshikhar.com.np/logo.webp)",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "terms.html",
+      "msg": "Missing <link rel=\"canonical\">",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "terms.html",
+      "msg": "JSON-LD missing @type",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3b",
+      "file": "terms.html",
+      "msg": "Render-blocking script in <head>: config.js",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "terms.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "terms.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3b",
+      "file": "terms.html",
+      "msg": "Animation on layout-triggering property: width",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "terms.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "terms.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "terms.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "terms.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "terms.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "terms.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "terms.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "terms.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "terms.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "terms.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "terms.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "terms.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "terms.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "terms.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Low",
+      "rule": "3b",
+      "file": "terms.html",
+      "msg": "Animation uses \"transition: all\", may trigger layout",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "article-template.html",
+      "msg": "Orphaned page: No internal links point to this file",
+      "evidence": "[VERIFIED IN CODE]"
+    },
+    {
+      "severity": "Medium",
+      "rule": "3a",
+      "file": "dispatch.html",
+      "msg": "Orphaned page: No internal links point to this file",
+      "evidence": "[VERIFIED IN CODE]"
+    }
+  ],
+  "totalCSSBytes": 376481,
+  "cssSizes": [
+    {
+      "file": "aqua_himshikhar_brand_website.html",
+      "cssBytes": 34228
+    },
+    {
+      "file": "aqua_kathmandu_brand_website.html",
+      "cssBytes": 12321
+    },
+    {
+      "file": "article-template.html",
+      "cssBytes": 37258
+    },
+    {
+      "file": "business.html",
+      "cssBytes": 23187
+    },
+    {
+      "file": "contact.html",
+      "cssBytes": 35171
+    },
+    {
+      "file": "custom-labels.html",
+      "cssBytes": 18652
+    },
+    {
+      "file": "dispatch.html",
+      "cssBytes": 2101
+    },
+    {
+      "file": "hospitality.html",
+      "cssBytes": 172
+    },
+    {
+      "file": "journal.html",
+      "cssBytes": 34689
+    },
+    {
+      "file": "privacy.html",
+      "cssBytes": 33670
+    },
+    {
+      "file": "product_19l_jar.html",
+      "cssBytes": 36996
+    },
+    {
+      "file": "product_1l_bottle.html",
+      "cssBytes": 36996
+    },
+    {
+      "file": "product_500ml_bottle.html",
+      "cssBytes": 36996
+    },
+    {
+      "file": "terms.html",
+      "cssBytes": 34044
+    }
+  ]
+}
